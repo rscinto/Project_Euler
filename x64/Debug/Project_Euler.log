@@ -1,0 +1,5 @@
+﻿  Project_Euler.cpp
+C:\Users\rocco\Documents\Summer_2022\Project_Euler\Project_Euler\Project_Euler\assistants.cpp(57,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\rocco\Documents\Summer_2022\Project_Euler\Project_Euler\Project_Euler\number_list.cpp(431,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rocco\Documents\Summer_2022\Project_Euler\Project_Euler\Project_Euler\Project_Euler.cpp(113,20): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  Project_Euler.vcxproj -> C:\Users\rocco\Documents\Summer_2022\Project_Euler\Project_Euler\x64\Debug\Project_Euler.exe
